@@ -9,5 +9,6 @@ In this repository, for ExampleTool you will find:
 :x: Source code (not available)
 :x: Executable tool (not available)
 
+I thank Dr.Alberto Bacchelli and Mr.Vitezslav Humpa for helping me with the project
 
 This repository was constructed by <a href="https://github.com/saileshbvk">Venkata Krishna Sailesh Bommisetti.</a> under the supervision of <a href="https://github.com/CaptainEmerson">Murphy Emerson-Hill.</a>
