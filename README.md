@@ -3,7 +3,11 @@ The tool was originally presented in this paper http://delivery.acm.org/10.1145/
 
 The video of the working of the tool. 
 https://www.youtube.com/watch?v=MspFmsA1p_A
+
+
 In this repository, for ExampleTool you will find:
 :x: Source code (not available)
 :x: Executable tool (not available)
-This repository was constructed by Venkata Krishna Sailesh Bommisetti under the supervision of Murphy Emerson-Hill. 
+
+
+This repository was constructed by Venkata Krishna Sailesh Bommisetti under the supervision of <a href="https://github.com/CaptainEmerson">Murphy Emerson-Hill.</a>
